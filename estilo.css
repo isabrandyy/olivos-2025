@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+body{
+	background-image: url(../img/fondo.png);
+
+}
+
+#main{
+	width: 1280px;
+	height: 720px;
+	background-color: #778beb;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+
+#header{
+	width: 100%;
+	height: 120px;
+	background-color: #63cdda;
+}
+
+#nav{
+	width: 100%;
+	height: 50px ;
+	background-color: #ea8685;
+}
+
+#section{
+	width: 100%;
+	height: 500px;
+	background-color: #574b90;
+}
+
+#footer{
+	width: 100%;
+	height: 50px;
+	background-color: #c44569;
+}
